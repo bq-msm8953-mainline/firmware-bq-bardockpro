@@ -1,0 +1,4 @@
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/eu/orange/commerci/spain/mcfg_sw.mbn
+mcfg_sw/generic/eu/vodafone/volte/spain/mcfg_sw.mbn
+mcfg_sw/generic/common/default/default/mcfg_sw.mbn
